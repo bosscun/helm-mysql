@@ -241,3 +241,4 @@ If you are using a certificate your configurationFiles must include the three ss
     ssl-key=/ssl/server-key.pem
 ```
 # helm-mysql
+# helm-mysql
