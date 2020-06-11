@@ -242,3 +242,4 @@ If you are using a certificate your configurationFiles must include the three ss
 ```
 # helm-mysql
 # helm-mysql
+# helm-mysql
